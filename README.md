@@ -3,9 +3,8 @@
 -------Hi, I'm punny3xf-------
 ------------------------------
 ------------------------------
--I'm interested in tube stuff-
---Transistor an opamp based---
-----------audio---------------
+-I'm interested in tube stuff
+Transistor an opamp based audio
 ------------------------------
 -I do Arduino and ST32F based-
 -audio projects with the Mozzi
